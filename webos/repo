@@ -134,18 +134,17 @@
  {
          "id": "vpn.manager",
          "title": "***OpenVPN Manager",
-         "iconUri": "https://github.com/wals09/repo/blob/main/vpn.manager/icon.png?raw=true",
-         "manifestUrl": "https://wals09.github.io/repo/vpn.manager/vpnmanager_manifest.json",
-         "manifest": {
+         "iconUri": "https://algaufa.github.io/webos/openvpn/icon.png?raw=true",
+            "manifest": {
             "id": "vpn.manager",
             "version": "24.12.4",
             "type": "native",
             "title": "OpenVPN Manager",
             "appDescription": "Приложение OpenVPN - OVPN",
-            "iconUri": "https://github.com/wals09/repo/blob/main/vpn.manager/icon.png?raw=true",
+            "iconUri": "https://algaufa.github.io/webos/openvpn/icon.png?raw=true",
             "sourceUrl": "https://t.me/chat_ipk_m/3150",
             "rootRequired": true,
-            "ipkUrl": "https://www.dropbox.com/scl/fi/oprbsl8cmlas01rggbqea/vpn.manager_24.12.4_all.ipk?rlkey=to8w3hhx9zf23020qj2esnxeo&st=n8rl1tyg&dl=1",
+            "ipkUrl": "https://algaufa.github.io/webos/openvpn/vpn.manager_24.12.4_all.ipk",
             "ipkHash": {
                "sha256": "5f8c8b07c2be9d066ab4372674f734fbc7a6109f42d4f678b3e3bf26ad842b8b"
             },
