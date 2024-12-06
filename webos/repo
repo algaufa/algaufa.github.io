@@ -103,30 +103,5 @@
       "fullDescriptionUrl": ""
 
     }
-    {
-      "id": "homebrew",
-      "title": "homebrew",
-      "iconUri": "https://algaufa.github.io/webos/youtube/largeIcon.png?raw=true",
-      "manifest": {
-        "id": "homebrew",
-        "version": "7.2",
-        "type": "web",
-        "title": "homebrew",
-        "appDescription": "",
-        "iconUri": "algaufa.github.io/webos/homebrew/icon160.png?raw=true",
-        "sourceUrl": "",
-        "rootRequired": false,
-        "ipkUrl": "algaufa.github.io/webos/homebrew/org.webosbrew.hbchannel_0.7.2_all.ipk",
-        "ipkHash": {
-          "sha256": ""
-        },
-        "ipkSize": 345516 
-      },
- 
-      "shortDescription": "",
-      "fullDescriptionUrl": ""
-    }
-
-
-  ]
+   ]
 }
