@@ -83,17 +83,17 @@
 {
          "id": "com.forkplayer.tv",
          "title": "***ForkNewBeta",
-         "iconUri": "algaufa.github.io/webos/forplayer/logo_fork_80.png?raw=true",
+         "iconUri": "https://algaufa.github.io/webos/forkplayer/logo_fork_80.png?raw=true",
          "manifest": {
             "id": "com.forkplayer.tv",
             "version": "1.0.3",
             "type": "web",
             "title": "ForkNewBeta",
             "appDescription": "Приложение ForkNewBeta",
-            "iconUri": "algaufa.github.io/webos/forplayer/logo_fork_80.png?raw=true",
+            "iconUri": "https://algaufa.github.io/webos/forkplayer/logo_fork_80.png?raw=true",
             "sourceUrl": "",
             "rootRequired": false,
-            "ipkUrl": "algaufa.github.io/webos/forplayer/WForkNewBeta.ipk",
+            "ipkUrl": "https://algaufa.github.io/webos/forkplayer/WForkNewBeta.ipk",
             "ipkHash": {
                "sha256": "8336d5d7ad074215152f633023d4d6560aa30661cc3dcdb8b27575eb986702d2"
             },
