@@ -22,7 +22,7 @@
         "rootRequired": false,
         "ipkUrl": "https://algaufa.github.io/webos/bylampa/bylampa.tv_1.4.2_all.ipk",
         "ipkHash": {
-          "sha256": "8a1d11d5883450d9131e069e3e4af01d1de42e7a1a040f69c5294aefdc6abce3"
+          "sha256": "c63409f18542d085532c4ba6b005b4ecc959980fd1e2ffe3e0f6386e73594c31"
         },
         "ipkSize": 7121159
       },
