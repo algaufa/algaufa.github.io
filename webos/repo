@@ -13,7 +13,7 @@
       "iconUri": "https://algaufa.github.io/webos/bylampa/icon_large.png?raw=true",
       "manifest": {
         "id": "bylampa.tv",
-        "version": "1.4.2.",
+        "version": "1.4.2",
         "type": "web",
         "title": "bylampa",
         "appDescription": "",
@@ -28,7 +28,7 @@
       },
       "pool": "main",
       "shortDescription": "",
-      "fullDescriptionUrl": "https://epsill.github.io/plugins/index.html"
+      "fullDescriptionUrl": "https://algaufa.github.io/webos/bylampa/index.html"
     },
     
     {
