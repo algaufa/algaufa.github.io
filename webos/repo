@@ -79,6 +79,33 @@
       "fullDescriptionUrl": ""
     },
 
+
+{
+         "id": "com.forkplayer.tv",
+         "title": "***ForkNewBeta",
+         "iconUri": "https://github.com/wals09/repo/blob/main/fork/logo_fork_80.png?raw=true",
+         "manifest": {
+            "id": "com.forkplayer.tv",
+            "version": "1.0.3",
+            "type": "web",
+            "title": "ForkNewBeta",
+            "appDescription": "Приложение ForkNewBeta",
+            "iconUri": "https://github.com/wals09/repo/blob/main/fork/logo_fork_80.png?raw=true",
+            "sourceUrl": "",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/9b7p7jvvpc35t5y855utj/com.forkplayer.tv.ipk?rlkey=jopqd73whpzue0p6ce022ghom&dl=1",
+            "ipkHash": {
+               "sha256": "8336d5d7ad074215152f633023d4d6560aa30661cc3dcdb8b27575eb986702d2"
+            },
+            "ipkSize": 3297498
+         },
+         "pool": "main",
+         "shortDescription": "Приложение ForkNewBeta",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/fork/com.forkplayer.tv-full_description.html"
+      },
+
+
+
     {
       "id": "youtube.leanback.v4",
       "title": "YouTube AdFree",
