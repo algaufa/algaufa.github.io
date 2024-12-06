@@ -1,0 +1,85 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+
+    {
+      "id": "com.lampa.tv",
+      "title": "Lampa",
+      "iconUri": "https://github.com/wals09/repo/blob/main/soon.png?raw=true",
+      "manifest": {
+        "id": "com.lampa.tv",
+        "version": "1.4.1",
+        "type": "web",
+        "title": "Lampa",
+        "appDescription": "",
+        "iconUri": "https://github.com/wals09/repo/blob/main/soon.png?raw=true",
+        "sourceUrl": "",
+        "rootRequired": false,
+        "ipkUrl": "https://www.dropbox.com/scl/fi/jl1p3129h3ifyfjeuxyot/lampa_v1.4.1.ipk?rlkey=nxzvjmkl49b2d38ucq10jla6a&dl=1",
+        "ipkHash": {
+          "sha256": "f897172241f0fa3b7a909623154490cf8d2efebb1b538ec72be6b6bacaedb929"
+        },
+        "ipkSize": 7021158
+      },
+      "pool": "main",
+      "shortDescription": "",
+      "fullDescriptionUrl": ""
+    },
+    {
+      "id": "torrserv.matrix.app",
+      "title": "Torrserver MatriX",
+      "iconUri": "https://github.com/wals09/repo/blob/main/soon.png?raw=true",
+      "manifest": {
+        "id": "torrserv.matrix.app",
+        "version": "0.3.6",
+        "type": "web",
+        "title": "Torrserver MatriX",
+        "appDescription": "",
+        "iconUri": "https://github.com/wals09/repo/blob/main/soon.png?raw=true",
+        "sourceUrl": "",
+        "rootRequired": false,
+        "ipkUrl": "https://www.dropbox.com/scl/fi/e2rbu3ixxefzhxo6nxbfc/torrserv.matrix.app_0.3.6_all.ipk?rlkey=tkhqd93iqgm8st3680sq2urbj&dl=1",
+        "ipkHash": {
+          "sha256": "013e98c0f0d39f2351961f1a292db0f043ff61354e39e89813dfc4ca19a74fb0"
+        },
+        "ipkSize": 14572046 
+      },
+ 
+      "shortDescription": "",
+      "fullDescriptionUrl": ""
+    },
+    {
+      "id": "youtube.leanback.v4",
+      "title": "YouTube AdFree",
+      "iconUri": "https://github.com/wals09/repo/blob/main/soon.png?raw=true",
+      "manifest": {
+        "id": "youtube.leanback.v4",
+        "version": "0.3.4",
+        "type": "web",
+        "title": "YouTube AdFree",
+        "appDescription": "",
+        "iconUri": "https://github.com/wals09/repo/blob/main/soon.png?raw=true",
+        "sourceUrl": "",
+        "rootRequired": false,
+        "ipkUrl": "https://www.dropbox.com/scl/fi/y97bq84u98vhunfdz9lcf/youtube.leanback.v4_0.3.4_all.ipk?rlkey=hmc0ib9vs06odulilxncn0dbp&dl=1",
+        "ipkHash": {
+          "sha256": "19d415a11fcfa4f34eae01b88401c9e6963f00e09cc402d1f659bdab60cd11c6"
+        },
+        "ipkSize": 345516 
+      },
+ 
+      "shortDescription": "",
+      "fullDescriptionUrl": ""
+    },
+   
+ 
+      "shortDescription": "",
+      "fullDescriptionUrl": ""
+    }
+  ]
+}
