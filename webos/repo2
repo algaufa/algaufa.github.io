@@ -1,0 +1,531 @@
+{
+   "paging": {
+      "page": 1,
+      "count": 1,
+      "maxPage": 1,
+      "itemsTotal": 1
+   },
+   "packages": [
+{
+      "id": "tiktok.djvreditel.v1",
+      "title": "***TikTok",
+      "iconUri": "https://raw.githubusercontent.com/DjVreditel/tiktok-webos/main/assets/largeIcon.png",
+      "manifest": {
+        "id": "tiktok.djvreditel.v1",
+        "version": "1.1.0",
+        "type": "web",
+        "title": "TikTok",
+        "iconUri": "https://raw.githubusercontent.com/DjVreditel/tiktok-webos/main/assets/largeIcon.png",
+        "sourceUrl": "https://github.com/DjVreditel/tiktok-webos",
+        "rootRequired": false,
+        "ipkUrl": "https://drive.usercontent.google.com/uc?id=10lgcgX8Tp58hK2tAMD_MTyj4GWTXAKre&export=download",
+        "ipkHash": {
+          "sha256": "acda05efc34d6c252d83057db10da0d53c171822874612a1a4a8fcba66d404f4"
+        }
+      },
+      "shortDescription": "Unofficial TikTok App for WebOS with extended features",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/DjVreditel/tiktok-webos/main/HomebrewChannel/index.html"
+    },
+  {
+         "id": "cdnservices.link",
+         "title": "***Приложение Kinopub TV",
+         "iconUri": "https://github.com/wals09/repo/blob/main/kinopub_cdn_sl/icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/kinopub_cdn_sl/kinopub_cdn_sl.manifest.json",
+         "manifest": {
+            "id": "cdnservices.link",
+            "version": "1.0.0",
+            "type": "web",
+            "title": "Kinopub TV",
+            "appDescription": "Приложение Kinopub TV",
+            "iconUri": "https://github.com/wals09/repo/blob/main/kinopub_cdn_sl/icon.png?raw=true",
+            "sourceUrl": "https://kpms.cc/chat",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/vnfcjouf4bzemk995agqb/kinopub_cdn_sl.ipk?rlkey=7a75qzesp7nhl20zgmudk1h30&st=j8xis4sv&dl=1",
+            "ipkHash": {
+               "sha256": "a9b3f49a784c30db867764d523e8a4e1beddb22432984ed67aa69f49d18df387"
+            },
+            "ipkSize": 15966
+         },
+         "pool": "main",
+         "shortDescription": "Приложение Kinopub TV",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/kinopub_cdn_sl/kinopub_cdn_sl-full_description.html"
+      }, 
+ {
+         "id": "kpstv",
+         "title": "***KinoPub STV ",
+         "iconUri": "https://github.com/wals09/repo/blob/main/kpstv/icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/vokino/vokino.manifest.json",
+         "manifest": {
+            "id": "kpstv",
+            "version": "0.0.1",
+            "type": "web",
+            "title": "KinoPub STV",
+            "appDescription": "Приложение KinoPub STV",
+            "iconUri": "https://github.com/wals09/repo/blob/main/kpstv/icon.png?raw=true",
+            "sourceUrl": "https://kpstv.net/",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/jw95wep3qqf3mvx3z9xm6/kinopub.ipk?rlkey=l8w3vhw933dn39jg5dkefrlqa&dl=1",
+            "ipkHash": {
+               "sha256": "f2b286f58a3f612c928c932723f4b609af0f1c7fa32b20dd5cb423e7e3257a80"
+            },
+            "ipkSize": 25372
+         },
+         "pool": "main",
+         "shortDescription": "Приложение KinoPub STV",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/kpstv/kpstv-full_description.html"
+      }, 
+   {
+         "id": "kinopub.tv",
+         "title": "***Приложение Kinopub TV",
+         "iconUri": "https://github.com/wals09/repo/blob/main/kinopub/icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/vokino/vokino.manifest.json",
+         "manifest": {
+            "id": "kinopub.tv",
+            "version": "1.1.1",
+            "type": "web",
+            "title": "Kinopub TV",
+            "appDescription": "Приложение Kinopub TV",
+            "iconUri": "https://github.com/wals09/repo/blob/main/kinopub/icon.png?raw=true",
+            "sourceUrl": "https://kpms.cc/chat",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/qxg8edc2hrmokp80zfpog/kinopub.tv.ipk?rlkey=c73bkppl4pqdem7rs2vb1d9l7&dl=1",
+            "ipkHash": {
+               "sha256": "e335b412b02b57916488094c91b982cb1b29eaa810d72d63d205b59186c6589c"
+            },
+            "ipkSize": 15966
+         },
+         "pool": "main",
+         "shortDescription": "Приложение Kinopub TV",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/kinopub/kinopub-full_description.html"
+      }, 
+
+  {
+         "id": "moovies.fun",
+         "title": "***Приложение MOOVIES FUN",
+         "iconUri": "https://github.com/wals09/repo/blob/main/moovies/largeIcon.png?raw=true",
+         "manifestUrl": "https://raw.githubusercontent.com/wals09/repo/main/moovies/moovies_manifest.json",
+         "manifest": {
+            "id": "moovies.fun",
+            "version": "1.0.1",
+            "type": "web",
+            "title": "MOOVIES FUN",
+            "appDescription": "MOOVIES в оболочке MSX",
+            "iconUri": "https://github.com/wals09/repo/blob/main/moovies/largeIcon.png?raw=true",
+            "sourceUrl": "https://t.me/moviesgrus",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/zjxcilsyll6fkrslsqd09/moovies.fun_1.0.1_all.ipk?rlkey=4reg84t3l0pmupe0mzlvrjtky&st=yrsmv99t&dl=1",
+            "ipkHash": {
+               "sha256": "2531a694672a8f9b9cc71c3c4ca49cf805245cc8404a34650738b2d67b060e13"
+            },
+            "ipkSize": 1114112
+         },
+         "pool": "main",
+         "shortDescription": "MOOVIES в оболочке MSX",
+         "fullDescriptionUrl": "https://raw.githubusercontent.com/wals09/repo/main/moovies/ru.moovies.vp-full_description.html"
+      },
+      {
+         "id": "com.ott.drm",
+         "title": "***Приложение Ott DRM-play",
+         "iconUri": "https://github.com/wals09/repo/blob/main/drm/DRM_icon.png?raw=true",
+         "manifestUrl": "https://github.com/ipk_m2/repo/raw/main/drm/DRM.manifest.json",
+         "manifest": {
+            "id": "com.ott.drm",
+            "version": "0.0.6",
+            "type": "web",
+            "title": "DRM-play",
+            "appDescription": "Ott DRM-play",
+            "iconUri": "https://github.com/wals09/repo/blob/main/drm/DRM_icon.png?raw=true",
+            "sourceUrl": "https://t.me/ott_drmplay",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/4e3iapton8z7f2muej9u3/com.ott.drm_0.0.6_all.ipk?rlkey=utu98fnqal0mccf3oa4btthlu&dl=1",
+            "ipkHash": {
+               "sha256": "bafc2159b5d73c342ceb430cdcdc28fdccda9f64e0ba6a895d6e6629617b174b"
+            },
+            "ipkSize": 110702
+         },
+         "pool": "main",
+         "shortDescription": "Ott DRM-play",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/drm/com.ott.drm-full_description.html"
+      },
+      {
+         "id": "com.ottplay.foss",
+         "title": "***OTT-play FOSS",
+         "iconUri": "https://github.com/wals09/repo/blob/main/foss/icon.png?raw=true",
+         "manifestUrl": "https://github.com/ipk_m2/repo/raw/main/foss/FOSS.manifest.json",
+         "manifest": {
+            "id": "com.ottplay.foss",
+            "version": "0.0.4",
+            "type": "web",
+            "title": "OTT-play FOSS",
+            "appDescription": "FOSS iptv player",
+            "iconUri": "https://github.com/wals09/repo/blob/main/foss/icon.png?raw=true",
+            "sourceUrl": "https://ott.prog4food.eu.org",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/jt12gphkm9i87zchotjh2/com.ottplay.foss_all.ipk?rlkey=prn29f8r9u30zoyakqohfwcfk&dl=1",
+            "ipkHash": {
+               "sha256": "6e8714ffb68d47ca7f15364138dedcb8b7757ef3ceb54d1ec3bd46985a88a731"
+            },
+            "ipkSize": 1063424
+         },
+         "pool": "main",
+         "shortDescription": "FOSS iptv player",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/foss/com.ottplay.foss-full_description.html"
+      },
+      {
+         "id": "com.atodo.ml",
+         "title": "***Atodo",
+         "iconUri": "https://github.com/wals09/repo/blob/main/atodo/ATODO_icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/atodo/Atodo.manifest.json",
+         "manifest": {
+            "id": "com.atodo.ml",
+            "version": "0.0.3",
+            "type": "web",
+            "title": "Atodo",
+            "appDescription": "Приложение Atodo",
+            "iconUri": "https://github.com/wals09/repo/blob/main/atodo/ATODO_icon.png?raw=true",
+            "sourceUrl": "https://t.me/ipk_moding_chat",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/f7npsyo35y3pctqndqf8m/com.atodo.ml_0.0.3_all.ipk?rlkey=7hqdlsrw8m74an216f4f14wof&dl=1",
+            "ipkHash": {
+               "sha256": "082f0bda50838a09307c5a8cf43fab2f1ceb16dbc5bc0f219c9b3b1481b80605"
+            },
+            "ipkSize": 1724190
+         },
+         "pool": "main",
+         "shortDescription": "Приложение Atodo",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/atodo/com.atodo.ml-full_description.html"
+      },
+      {
+         "id": "webos.manager.input",
+         "title": "***Менеджер входов",
+         "iconUri": "https://github.com/wals09/repo/blob/main/input_maneger/meneger_icon.png?raw=true",
+         "manifestUrl": "https://github.com/ipk_m2/repo/raw/main/input_maneger/menedger.manifest.json",
+         "manifest": {
+            "id": "webos.manager.input",
+            "version": "5.11.22",
+            "type": "native",
+            "title": "Менеджер входов",
+            "appDescription": "Менеджер назначения приложений на вход телевизора",
+            "iconUri": "https://github.com/wals09/repo/blob/main/input_maneger/meneger_icon.png?raw=true",
+            "sourceUrl": "https://t.me/ipk_M",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/fob02qekvou0oosogn2u3/webos.manager.input_5.11.22_all.ipk?rlkey=kwh6omvp7z8e5yv91kxkcsf1t&dl=1",
+            "ipkHash": {
+               "sha256": "1faf5070066857e5fa924b8bb1c760c6ce8ae85408117a1b5d49c5d4840dec89"
+            },
+            "ipkSize": 71280
+         },
+         "pool": "main",
+         "shortDescription": "The last custom webOS Screensaver you will ever need",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/input_maneger/webos.manager.input_description.html"
+      },
+      {
+         "id": "kb.team.club",
+         "title": "***KinoBOOM",
+         "iconUri": "https://github.com/wals09/repo/blob/main/kinoboom/kinoboom_icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/kinoboom/КВ.manifest.json",
+         "manifest": {
+            "id": "kb.team.club",
+            "version": "0.0.1",
+            "type": "web",
+            "title": "KinoBOOM",
+            "appDescription": "Портал KinoBOOM",
+            "iconUri": "https://github.com/wals09/repo/blob/main/kinoboom/kinoboom_icon.png?raw=true",
+            "sourceUrl": "https://t.me/plkinoboom_chat",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/wrb4smxc3y4cpabntjhcc/KinoBOOM.ipk?rlkey=2h7t7ahe9uh4vd5128h7457s2&dl=1",
+            "ipkHash": {
+               "sha256": "a0efdbdc1f3032f33ba36b9ba89b942ee8c775ba92f04b133ad1e362383d38d0"
+            },
+            "ipkSize": 578212
+         },
+         "pool": "main",
+         "shortDescription": "Портал KinoBOOM",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/kinoboom/kb.team.club-full_description.html"
+      },
+      {
+         "id": "com.rutube.ru",
+         "title": "***RuTube",
+         "iconUri": "https://github.com/wals09/repo/blob/main/rutube/RuTube_icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/rutube/rutube.manifest.json",
+         "manifest": {
+            "id": "com.rutube.ru",
+            "version": "1.0.0",
+            "type": "web",
+            "title": "RuTube",
+            "appDescription": "Приложение RuTube",
+            "iconUri": "https://github.com/wals09/repo/blob/main/rutube/RuTube_icon.png?raw=true",
+            "sourceUrl": "https://t.me/ipk_moding_chat",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/iopn671w4fvfdyx4bz1wh/com.rutube.ru_1.0.0_all.ipk?rlkey=2wp5gka64dt0jzo5xtp5d5bjc&dl=1",
+            "ipkHash": {
+               "sha256": "c1e4e981941acb046af45338edbf5053b600902fc12de589d96098877446d3c6"
+            },
+            "ipkSize": 79080
+         },
+         "pool": "main",
+         "shortDescription": "Приложение RuTube",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/rutube/com.rutube.ru-full_description.html.txt"
+      },
+       {
+         "id": "smotrim.web",
+         "title": "***Смотрим",
+         "iconUri": "https://github.com/wals09/repo/blob/main/smotrim/icon.jpg?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/smotrim/smotrim.manifest.json",
+         "manifest": {
+            "id": "smotrim.web",
+            "version": "1.0.0",
+            "type": "web",
+            "title": "Смотрим",
+            "appDescription": "Вэб версия приложения Смотрим",
+            "iconUri": "https://github.com/wals09/repo/blob/main/smotrim/icon.jpg?raw=true",
+            "sourceUrl": "https://t.me/ipk_moding_chat",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/2aka6w26o3calu0p3z2dc/smotrim.web_1.0.0_all.ipk?rlkey=7yhy4ppcvz07yt3571k1jmjxm&dl=1",
+            "ipkHash": {
+               "sha256": "997f144c3b87e6dd7f30457b0a904b427d325d905032115bdbbcf9919a6b0682"
+            },
+            "ipkSize": 22270
+         },
+         "pool": "main",
+         "shortDescription": "Вэб версия приложения Смотрим",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/smotrim/smotrim-full_description.html"
+      },
+      {
+         "id": "vpn.manager",
+         "title": "***OpenVPN Manager",
+         "iconUri": "https://github.com/wals09/repo/blob/main/vpn.manager/icon.png?raw=true",
+         "manifestUrl": "https://wals09.github.io/repo/vpn.manager/vpnmanager_manifest.json",
+         "manifest": {
+            "id": "vpn.manager",
+            "version": "24.12.4",
+            "type": "native",
+            "title": "OpenVPN Manager",
+            "appDescription": "Приложение OpenVPN - OVPN",
+            "iconUri": "https://github.com/wals09/repo/blob/main/vpn.manager/icon.png?raw=true",
+            "sourceUrl": "https://t.me/chat_ipk_m/3150",
+            "rootRequired": true,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/oprbsl8cmlas01rggbqea/vpn.manager_24.12.4_all.ipk?rlkey=to8w3hhx9zf23020qj2esnxeo&st=n8rl1tyg&dl=1",
+            "ipkHash": {
+               "sha256": "5f8c8b07c2be9d066ab4372674f734fbc7a6109f42d4f678b3e3bf26ad842b8b"
+            },
+            "ipkSize": 143224 
+         },
+         "pool": "main",
+         "shortDescription": "WebOs OpenVPN Manager ",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/refs/heads/main/vpn.manager/vpnmanager-full_description.html"
+      },
+      {
+         "id": "webos.openvpn.ovpn",
+         "title": "***OpenVPN - OVPN",
+         "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn_manifest.json",
+         "manifest": {
+            "id": "webos.openvpn.ovpn",
+            "version": "23.6.2",
+            "type": "native",
+            "title": "OpenVPN - OVPN",
+            "appDescription": "Приложение OpenVPN - OVPN",
+            "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
+            "sourceUrl": "https://t.me/ipk_moding_chat",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/s8t9nfnb3lskj2hw5ahgy/webos.openvpn.ovpn_23.6.2_all.ipk?rlkey=0amg1iwxv68r3u8rlmatr768q&dl=1",
+            "ipkHash": {
+               "sha256": "6c01464992bf93b03d00fc4168c0e709215416235d09b98e743a7e2a1a77c1bf"
+            },
+            "ipkSize": 2658886
+         },
+         "pool": "main",
+         "shortDescription": "OpenVPN - OVPN",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn-full_description.html.txt"
+      },
+      {
+         "id": "multiki.msx",
+         "title": "***Приложение МУЛЬТИКИ",
+         "iconUri": "https://github.com/wals09/repo/blob/main/multiki/icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/multiki/multiki.manifest.json",
+         "manifest": {
+            "id": "multiki.msx",
+            "version": "2.0.0",
+            "type": "web",
+            "title": "МУЛЬТИКИ",
+            "appDescription": "МУЛЬТИКИ. Мультфильмы он-лайн",
+            "iconUri": "https://github.com/wals09/repo/blob/main/multiki/icon.png?raw=true",
+            "sourceUrl": "https://t.me/chat_ipk_m",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/n3809auwwtjb1u74x7ftw/multiki.msx_2.0.0_all.ipk?rlkey=4y829q1ynzvj0m8dg276cm8k5&dl=1",
+            "ipkHash": {
+               "sha256": "aeb8863ac00b35299d36d07c3979bf1788adf6e067ab4dbad2d9fd8dddaca7f0"
+            },
+            "ipkSize": 255898
+         },
+         "pool": "main",
+         "shortDescription": "МУЛЬТИКИ. Мультфильмы он-лайн",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/multiki/multiki-full_description.html"
+      },
+      {
+         "id": "movielab.msx",
+         "title": "***MOVIELAB",
+         "iconUri": "https://github.com/wals09/repo/blob/main/movielab/icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/movielab/movielab_manifest.json",
+         "manifest": {
+            "id": "movielab.msx",
+            "version": "1.0.0",
+            "type": "web",
+            "title": "MOVIELAB",
+            "appDescription": "Портал MOVIELAB на базе Media Station X",
+            "iconUri": "https://github.com/wals09/repo/blob/main/movielab/icon.png?raw=true",
+            "sourceUrl": "https://t.me/chat_ipk_m",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/m8j6lchsgod84d4rt46mb/movielab.msx_1.0.0_all.ipk?rlkey=mhun009r47p9o5zai68arxv08&dl=1",
+            "ipkHash": {
+               "sha256": "9766ea8e59b5753be4bb5666c83a7f31b078668b886779ec013c7a900879dc28"
+            },
+            "ipkSize": 23916
+         },
+         "pool": "main",
+         "shortDescription": "Портал MOVIELAB на базе Media Station X",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/movielab/movielab.msx-full_description.html"
+      },
+      {
+         "id": "wals.msx",
+         "title": "***WALS-msx",
+         "iconUri": "https://github.com/wals09/repo/blob/main/wals.msx/icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/wals.msx/wals.msx.manifest.json",
+         "manifest": {
+            "id": "wals.msx",
+            "version": "1.0.0",
+            "type": "web",
+            "title": "WALS-msx",
+            "appDescription": "Портал MSX с подборкой популярных приложений",
+            "iconUri": "https://github.com/wals09/repo/blob/main/wals.msx/icon.png?raw=true",
+            "sourceUrl": "https://t.me/chat_ipk_m",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/ri6roaec0spg5si124i6j/wals.msx_2.0.0_all.ipk?rlkey=5hzpdh8h1s1opb3qusw7azrw1&dl=1",
+            "ipkHash": {
+               "sha256": "d6174a2c7ec2ed38710b50fcae6a91b158d761a98bc6d05ce08c329ba025ca74"
+            },
+            "ipkSize": 23916
+         },
+         "pool": "main",
+         "shortDescription": "Приложение WALS-msx v2",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/wals.msx/wals.msx-full_description.html"
+      },
+      {
+         "id": "vokinotv",
+         "title": "***Приложение VoKino",
+         "iconUri": "https://github.com/wals09/repo/blob/main/vokino/icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/vokino/vokino.manifest.json",
+         "manifest": {
+            "id": "vokinotv",
+            "version": "1.0.11",
+            "type": "web",
+            "title": "VoKino",
+            "appDescription": "Приложение VoKino",
+            "iconUri": "https://github.com/wals09/repo/blob/main/vokino/icon.png?raw=true",
+            "sourceUrl": "https://vokino.tv",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/nzhqs78g0zqm2s57ysz0r/vokino.ipk?rlkey=mvw49ll27mznowkr6xwxshskl&dl=1",
+            "ipkHash": {
+               "sha256": "1997f8aadfe22e7beda692fe6aeec468c93b577eb0cb2738bb697b77bb306298"
+            },
+            "ipkSize": 1951032
+         },
+         "pool": "main",
+         "shortDescription": "Приложение VoKino",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/vokino/vokino-full_description.html"
+      },
+      {
+         "id": "com.forkplayer.tv",
+         "title": "***ForkNewBeta",
+         "iconUri": "https://github.com/wals09/repo/blob/main/fork/logo_fork_80.png?raw=true",
+         "manifest": {
+            "id": "com.forkplayer.tv",
+            "version": "1.0.3",
+            "type": "web",
+            "title": "ForkNewBeta",
+            "appDescription": "Приложение ForkNewBeta",
+            "iconUri": "https://github.com/wals09/repo/blob/main/fork/logo_fork_80.png?raw=true",
+            "sourceUrl": "",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/9b7p7jvvpc35t5y855utj/com.forkplayer.tv.ipk?rlkey=jopqd73whpzue0p6ce022ghom&dl=1",
+            "ipkHash": {
+               "sha256": "8336d5d7ad074215152f633023d4d6560aa30661cc3dcdb8b27575eb986702d2"
+            },
+            "ipkSize": 3297498
+         },
+         "pool": "main",
+         "shortDescription": "Приложение ForkNewBeta",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/fork/com.forkplayer.tv-full_description.html"
+      },
+      {
+         "id": "top.rotu.prisma",
+         "title": "***PrismaTV",
+         "iconUri": "https://github.com/wals09/repo/blob/main/prisma.tv/icon.png?raw=true",
+         "manifest": {
+            "id": "top.rotu.prisma",
+            "version": "1.0.0",
+            "type": "web",
+            "title": "PrismaTV",
+            "appDescription": "Приложение PrismaTV",
+            "iconUri": "https://github.com/wals09/repo/blob/main/prisma.tv/icon.png?raw=true",
+            "sourceUrl": "",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/ejsgfy2qsvcwrkv3hrmqm/top.rotu.prisma_1.0.0_all.ipk?rlkey=7byfk8w2ppzeufe6l3t8omwav&st=prd8dp9w&dl=1",
+            "ipkHash": {
+               "sha256": "8a7112f1544c9d91c9e0a376aa60a7a52c07f916151546239d4ebbcb625d2266"
+            },
+            "ipkSize": 16384
+         },
+         "pool": "main",
+         "shortDescription": "Приложение PrismaTV",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/prisma.tv/prisma.tv-full_description.html"
+      },
+      {
+         "id": "akter.black",
+         "title": "***Akter Black",
+         "iconUri": "https://github.com/wals09/repo/blob/main/akter.black/icon.png?raw=true",
+         "manifest": {
+            "id": "akter.black",
+            "version": "1.0.0",
+            "type": "web",
+            "title": "Akter Black",
+            "appDescription": "Приложение Akter Black",
+            "iconUri": "https://github.com/wals09/repo/blob/main/akter.black/icon.png?raw=true",
+            "sourceUrl": "",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/ssfnb6jv8jrhpf4t97rl4/akter.black_1.0.0_all.ipk?rlkey=llkspncd1jpl5bxq6buprfa8n&dl=1",
+            "ipkHash": {
+               "sha256": "5a599b1a8cde05f9714fc1bcdcbdd11e4ce5ea2f892d74aec6986dd928f256b2"
+            },
+            "ipkSize": 821714
+         },
+         "pool": "main",
+         "shortDescription": "Приложение Akter Black",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/akter.black/akter.black-full_description.html"
+      },
+      {
+         "id": "reboot",
+         "title": "***System Reboot",
+         "iconUri": "https://github.com/wals09/repo/blob/main/reboot/icon.png?raw=true",
+         "manifest": {
+            "id": "reboot",
+            "version": "1.0.0",
+            "type": "native",
+            "title": "System Reboot",
+            "appDescription": "Кнопка Reboot",
+            "iconUri": "https://github.com/wals09/repo/blob/main/reboot/icon.png?raw=true",
+            "sourceUrl": "",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/rxpwk6a95bfmat89jmiu4/reboot_1.0.0_all.ipk?rlkey=9gm8twkkbwrtlaz8lyuyh4wse&st=glgxronm&dl=1",
+            "ipkHash": {
+               "sha256": "e573f18d7ecfc0fac63e58278fc3ecf1a6e83ae1a7d53177ee4ad326df49876c"
+            },
+            "ipkSize": 258048
+         },
+         "pool": "main",
+         "shortDescription": "Кнопка Reboot",
+         "fullDescriptionUrl": "https://raw.githubusercontent.com/wals09/repo/main/reboot/reboot-full_description.html"
+      }
+   ]
+}
