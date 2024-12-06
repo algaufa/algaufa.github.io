@@ -7,10 +7,7 @@
   },
   "packages": [
 
-
-
 {
-      
       "id": "bylampa.tv",
       "title": "bylampa",
       "iconUri": "https://epsill.github.io/plugins/sd.png?raw=true",
@@ -57,6 +54,7 @@
       "shortDescription": "",
       "fullDescriptionUrl": ""
     },
+
     {
       "id": "torrserv.matrix.app",
       "title": "Torrserver MatriX",
@@ -80,6 +78,7 @@
       "shortDescription": "",
       "fullDescriptionUrl": ""
     },
+
     {
       "id": "youtube.leanback.v4",
       "title": "YouTube AdFree",
