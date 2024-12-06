@@ -118,7 +118,7 @@
         "rootRequired": false,
         "ipkUrl": "algaufa.github.io/webos/homebrew/org.webosbrew.hbchannel_0.7.2_all.ipk",
         "ipkHash": {
-          "sha256": "19d415a11fcfa4f34eae01b88401c9e6963f00e09cc402d1f659bdab60cd11c6"
+          "sha256": ""
         },
         "ipkSize": 345516 
       },
