@@ -105,6 +105,31 @@
       },
 
 
+{
+         "id": "org.webosbrew.hbchannel",
+         "title": "Homebrew Channel",
+         "iconUri": "https://algaufa.github.io/webos/homebrew/icon160.png?raw=true",
+         "manifest": {
+            "id": "org.webosbrew.hbchannel",
+            "version": "0.7.2",
+            "type": "web",
+            "title": "Homebrew Channel",
+            "appDescription": "",
+            "iconUri": "https://algaufa.github.io/webos/homebrew/icon160.png?raw=true",
+            "sourceUrl": "",
+            "rootRequired": false,
+            "ipkUrl": "https://algaufa.github.io/webos/homebrew/org.webosbrew.hbchannel_0.7.2_all.ipk",
+            "ipkHash": {
+               "sha256": "d758d4d2023eb6039422139e763d1b163c130922ef197baedf451d4b3c45c549"
+            },
+            "ipkSize": 1659154
+         },
+         "pool": "main",
+         "shortDescription": "",
+         "fullDescriptionUrl": ""
+      },
+
+
 
     {
       "id": "youtube.leanback.v4",
