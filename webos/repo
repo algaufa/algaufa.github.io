@@ -83,7 +83,7 @@
 {
          "id": "com.forkplayer.tv",
          "title": "ForkNewBeta",
-         "iconUri": "https://algaufa.github.io/webos/forkplayer/logo_fork_130.png?raw=true",
+         "iconUri": "https://algaufa.github.io/webos/forkplayer/logo_fork_80.png?raw=true",
          "manifest": {
             "id": "com.forkplayer.tv",
             "version": "1.0.3",
