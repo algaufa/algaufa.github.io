@@ -82,17 +82,17 @@
     {
       "id": "youtube.leanback.v4",
       "title": "YouTube AdFree",
-      "iconUri": "https://github.com/wals09/repo/blob/main/soon.png?raw=true",
+      "iconUri": "https://algaufa.github.io/webos/youtube/largeIcon.png?raw=true",
       "manifest": {
         "id": "youtube.leanback.v4",
         "version": "0.3.4",
         "type": "web",
         "title": "YouTube AdFree",
         "appDescription": "",
-        "iconUri": "https://github.com/wals09/repo/blob/main/soon.png?raw=true",
+        "iconUri": "https://algaufa.github.io/webos/youtube/largeIcon.png?raw=true",
         "sourceUrl": "",
         "rootRequired": false,
-        "ipkUrl": "https://www.dropbox.com/scl/fi/y97bq84u98vhunfdz9lcf/youtube.leanback.v4_0.3.4_all.ipk?rlkey=hmc0ib9vs06odulilxncn0dbp&dl=1",
+        "ipkUrl": "https://algaufa.github.io/webos/youtube/youtube.leanback.v4_0.3.4_all.ipk",
         "ipkHash": {
           "sha256": "19d415a11fcfa4f34eae01b88401c9e6963f00e09cc402d1f659bdab60cd11c6"
         },
