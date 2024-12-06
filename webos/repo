@@ -10,17 +10,17 @@
 {
       "id": "bylampa.tv",
       "title": "bylampa",
-      "iconUri": "https://algaufa.github.io/webos/img/icon_large.png?raw=true",
+      "iconUri": "https://algaufa.github.io/webos/bylampa/icon_large.png?raw=true",
       "manifest": {
         "id": "bylampa.tv",
         "version": "1.4.2",
         "type": "web",
         "title": "bylampa",
         "appDescription": "",
-        "iconUri": "https://epsill.github.io/plugins/sd.png?raw=true",
+        "iconUri": "https://algaufa.github.io/webos/bylampa/icon_large.png?raw=true",
         "sourceUrl": "t.me/lampa_plugins_uncensored",
         "rootRequired": false,
-        "ipkUrl": "https://www.dropbox.com/scl/fi/1gxfvamy1et7fgwkf4all/bylampa_id.ipk?rlkey=toq5t527cpzlsr76et7ogysj3&st=7yi0jyt7&dl=1",
+        "ipkUrl": "https://algaufa.github.io/webos/bylampa/bylampa.tv_1.4.2_all.ipk",
         "ipkHash": {
           "sha256": "8a1d11d5883450d9131e069e3e4af01d1de42e7a1a040f69c5294aefdc6abce3"
         },
