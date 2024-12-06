@@ -133,7 +133,7 @@
 
  {
          "id": "vpn.manager",
-         "title": "***OpenVPN Manager",
+         "title": "OpenVPN Manager",
          "iconUri": "https://algaufa.github.io/webos/openvpn/icon.png?raw=true",
             "manifest": {
             "id": "vpn.manager",
