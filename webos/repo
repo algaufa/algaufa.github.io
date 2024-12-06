@@ -10,7 +10,7 @@
 {
       "id": "bylampa.tv",
       "title": "bylampa",
-      "iconUri": "https://epsill.github.io/plugins/sd.png?raw=true",
+      "iconUri": "https://algaufa.github.io/webos/img/icon_large.png?raw=true",
       "manifest": {
         "id": "bylampa.tv",
         "version": "1.4.2",
