@@ -38,7 +38,7 @@
       "manifest": {
         "id": "free.protonvpn",
         "version": "24.12.15",
-        "type": "native",
+        "type": "web",
         "title": "Free ProtonVPN",
         "appDescription": "",
         "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
