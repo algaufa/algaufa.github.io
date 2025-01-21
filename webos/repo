@@ -42,7 +42,7 @@
         "title": "Proton VPN",
         "appDescription": "",
         "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
-        "sourceUrl": "t.me/lampa_plugins_uncensored",
+        "sourceUrl": "https://t.me/chat_ipk_m/3150",
         "rootRequired": false,
         "ipkUrl": "https://algaufa.github.io/webos/proton/free.protonvpn_24.12.15_all.ipk",
         "ipkHash": {
