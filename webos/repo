@@ -33,13 +33,13 @@
 
 {
       "id": "proton.vpn",
-      "title": "Proton VPN",
+      "title": "Free ProtonVPN",
       "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
       "manifest": {
-        "id": "proton.vpn",
+        "id": "free.protonvpn",
         "version": "24.12.15",
-        "type": "web",
-        "title": "Proton VPN",
+        "type": "native",
+        "title": "Free ProtonVPN",
         "appDescription": "",
         "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
         "sourceUrl": "https://t.me/chat_ipk_m/3150",
