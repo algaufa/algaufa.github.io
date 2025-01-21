@@ -30,7 +30,32 @@
       "shortDescription": "",
       "fullDescriptionUrl": "https://algaufa.github.io/webos/bylampa/index.html"
     },
-    
+
+{
+      "id": "proton.vpn",
+      "title": "Proton VPN",
+      "iconUri": "https://algaufa.github.io/webos/bylampa/icon_large.png?raw=true",
+      "manifest": {
+        "id": "proton.vpn",
+        "version": "24.12.15",
+        "type": "web",
+        "title": "Proton VPN",
+        "appDescription": "",
+        "iconUri": "https://algaufa.github.io/webos/bylampa/icon_large.png?raw=true",
+        "sourceUrl": "t.me/lampa_plugins_uncensored",
+        "rootRequired": false,
+        "ipkUrl": "https://algaufa.github.io/webos/proton/free.protonvpn_24.12.15_all.ipk",
+        "ipkHash": {
+          "sha256": "197537d418eb96d0b56de3bf1c4b9c98a9f0682c0862031a1b2180a96f05eff3"
+        },
+        "ipkSize": 2586304
+      },
+      "pool": "main",
+      "shortDescription": "",
+      "fullDescriptionUrl": "https://algaufa.github.io/webos/bylampa/index.html"
+    },
+
+
     {
       "id": "com.lampa.tv",
       "title": "Lampa",
