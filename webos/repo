@@ -32,7 +32,7 @@
     },
 
 {
-      "id": "proton.vpn",
+      "id": "free.protonvpn",
       "title": "Free ProtonVPN",
       "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
       "manifest": {
