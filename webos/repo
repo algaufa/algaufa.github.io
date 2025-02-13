@@ -157,7 +157,7 @@
 
     {
          "id": "webos.openvpn.ovpn",
-         "title": "***OpenVPN - OVPN",
+         "title": "OpenVPN - OVPN",
          "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
          "manifestUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn_manifest.json",
          "manifest": {
