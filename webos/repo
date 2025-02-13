@@ -59,7 +59,7 @@
     {
       "id": "com.lampa.tv",
       "title": "Lampa",
-      "iconUri": "https://algaufa.github.io/webos/lampa/icon_large.pn?raw=true",
+      "iconUri": "https://algaufa.github.io/webos/lampa/icon_large.png?raw=true",
       "manifest": {
         "id": "com.lampa.tv",
         "version": "1.4.1",
