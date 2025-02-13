@@ -31,6 +31,34 @@
       "fullDescriptionUrl": "https://algaufa.github.io/webos/bylampa/index.html"
     },
 
+
+{
+      "id": "lampa.land",
+      "title": "LampaLand",
+      "iconUri": "https://algaufa.github.io/webos/lampaland/icon_large.png?raw=true",
+      "manifest": {
+        "id": "lampa.land",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "LampaLand",
+        "appDescription": "",
+        "iconUri": "https://algaufa.github.io/webos/lampaland/icon_large.png?raw=true",
+        "sourceUrl": "https://get.lampa.land/",
+        "rootRequired": false,
+        "ipkUrl": "https://algaufa.github.io/webos/lampaland/lampa.land_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "1d8db06ee6c42fefc867ba300924079f6056bc21fb80be8edf1de278ab822f7d"
+        },
+        "ipkSize": 554548
+      },
+      "pool": "main",
+      "shortDescription": "",
+      "fullDescriptionUrl": ""
+    },
+
+
+
+
 {
       "id": "free.protonvpn",
       "title": "Free ProtonVPN",
@@ -179,6 +207,33 @@
          "shortDescription": "OpenVPN - OVPN",
          "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn-full_description.html.txt"
       },
+
+ {
+         "id": "webos.openvpn.ovpn",
+         "title": "OpenVPN - Antizapret",
+         "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn_manifest.json",
+         "manifest": {
+            "id": "webos.openvpn.ovpn",
+            "version": "25.2.2",
+            "type": "native",
+            "title": "OpenVPN - OVPN",
+            "appDescription": "Приложение OpenVPN - Antizapret",
+            "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
+            "sourceUrl": "https://t.me/ipk_moding_chat",
+            "rootRequired": false,
+            "ipkUrl": "https://algaufa.github.io/webos/openvpn/webos.openvpn.ovpn_25.2.2_antizapret.ipk",
+            "ipkHash": {
+               "sha256": "c91c811c00a68467e4a1398d1715c3905b8d66aecc670712833ee3b04ef6fc31"
+            },
+            "ipkSize": 2658368
+         },
+         "pool": "main",
+         "shortDescription": "OpenVPN - OVPN",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn-full_description.html.txt"
+      },
+
+
 
 
  {
