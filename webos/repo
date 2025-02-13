@@ -56,34 +56,6 @@
       "fullDescriptionUrl": ""
     },
 
-
-
-
-{
-      "id": "free.protonvpn",
-      "title": "Free ProtonVPN",
-      "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
-      "manifest": {
-        "id": "free.protonvpn",
-        "version": "24.12.15",
-        "type": "web",
-        "title": "Free ProtonVPN",
-        "appDescription": "",
-        "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
-        "sourceUrl": "https://t.me/chat_ipk_m/3150",
-        "rootRequired": false,
-        "ipkUrl": "https://algaufa.github.io/webos/proton/free.protonvpn_24.12.15_all.ipk",
-        "ipkHash": {
-          "sha256": "197537d418eb96d0b56de3bf1c4b9c98a9f0682c0862031a1b2180a96f05eff3"
-        },
-        "ipkSize": 2586304
-      },
-      "pool": "main",
-      "shortDescription": "",
-      "fullDescriptionUrl": "https://algaufa.github.io/webos/bylampa/index.html"
-    },
-
-
     {
       "id": "com.lampa.tv",
       "title": "Lampa",
@@ -94,10 +66,10 @@
         "type": "web",
         "title": "Lampa",
         "appDescription": "",
-        "iconUri": "https://github.com/wals09/repo/blob/main/soon.png?raw=true",
+        "iconUri": "https://algaufa.github.io/webos/lampa/icon_large.png?raw=true",
         "sourceUrl": "",
         "rootRequired": false,
-        "ipkUrl": "https://www.dropbox.com/scl/fi/jl1p3129h3ifyfjeuxyot/lampa_v1.4.1.ipk?rlkey=nxzvjmkl49b2d38ucq10jla6a&dl=1",
+        "ipkUrl": "https://algaufa.github.io/webos/lampa/lampa_v1.4.1.ipk",
         "ipkHash": {
           "sha256": "f897172241f0fa3b7a909623154490cf8d2efebb1b538ec72be6b6bacaedb929"
         },
@@ -107,6 +79,10 @@
       "shortDescription": "",
       "fullDescriptionUrl": ""
     },
+
+
+
+
 
     {
       "id": "torrserv.matrix.app",
@@ -233,6 +209,29 @@
          "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn-full_description.html.txt"
       },
 
+{
+      "id": "free.protonvpn",
+      "title": "Free ProtonVPN",
+      "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
+      "manifest": {
+        "id": "free.protonvpn",
+        "version": "24.12.15",
+        "type": "web",
+        "title": "Free ProtonVPN",
+        "appDescription": "",
+        "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
+        "sourceUrl": "https://t.me/chat_ipk_m/3150",
+        "rootRequired": false,
+        "ipkUrl": "https://algaufa.github.io/webos/proton/free.protonvpn_24.12.15_all.ipk",
+        "ipkHash": {
+          "sha256": "197537d418eb96d0b56de3bf1c4b9c98a9f0682c0862031a1b2180a96f05eff3"
+        },
+        "ipkSize": 2586304
+      },
+      "pool": "main",
+      "shortDescription": "",
+      "fullDescriptionUrl": "https://algaufa.github.io/webos/bylampa/index.html"
+    },
 
 
 
