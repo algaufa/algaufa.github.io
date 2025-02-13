@@ -35,14 +35,14 @@
 {
       "id": "lampa.land",
       "title": "LampaLand",
-      "iconUri": "https://algaufa.github.io/webos/lampaland/icon_large.png?raw=true",
+      "iconUri": "https://algaufa.github.io/webos/lampaland/largeIcon.png?raw=true",
       "manifest": {
         "id": "lampa.land",
         "version": "1.0.0",
         "type": "web",
         "title": "LampaLand",
         "appDescription": "",
-        "iconUri": "https://algaufa.github.io/webos/lampaland/icon_large.png?raw=true",
+        "iconUri": "https://algaufa.github.io/webos/lampaland/largeIcon.png?raw=true",
         "sourceUrl": "https://get.lampa.land/",
         "rootRequired": false,
         "ipkUrl": "https://algaufa.github.io/webos/lampaland/lampa.land_1.0.0_all.ipk",
