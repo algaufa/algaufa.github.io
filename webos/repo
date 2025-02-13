@@ -231,5 +231,33 @@
       "fullDescriptionUrl": ""
 
     }
+
+
+    {
+         "id": "reboot",
+         "title": "***System Reboot",
+         "iconUri": "https://github.com/wals09/repo/blob/main/reboot/icon.png?raw=true",
+         "manifest": {
+            "id": "reboot",
+            "version": "1.0.0",
+            "type": "native",
+            "title": "System Reboot",
+            "appDescription": "Кнопка Reboot",
+            "iconUri": "https://github.com/wals09/repo/blob/main/reboot/icon.png?raw=true",
+            "sourceUrl": "",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/rxpwk6a95bfmat89jmiu4/reboot_1.0.0_all.ipk?rlkey=9gm8twkkbwrtlaz8lyuyh4wse&st=glgxronm&dl=1",
+            "ipkHash": {
+               "sha256": "e573f18d7ecfc0fac63e58278fc3ecf1a6e83ae1a7d53177ee4ad326df49876c"
+            },
+            "ipkSize": 258048
+         },
+         "pool": "main",
+         "shortDescription": "Кнопка Reboot",
+         "fullDescriptionUrl": "https://raw.githubusercontent.com/wals09/repo/main/reboot/reboot-full_description.html"
+      }
+
+
+
    ]
 }
