@@ -155,6 +155,31 @@
       },
 
 
+    {
+         "id": "webos.openvpn.ovpn",
+         "title": "***OpenVPN - OVPN",
+         "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn_manifest.json",
+         "manifest": {
+            "id": "webos.openvpn.ovpn",
+            "version": "25.2.2",
+            "type": "native",
+            "title": "OpenVPN - OVPN",
+            "appDescription": "Приложение OpenVPN - OVPN",
+            "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
+            "sourceUrl": "https://t.me/ipk_moding_chat",
+            "rootRequired": false,
+            "ipkUrl": "https://www.dropbox.com/scl/fi/rhscrbny1rupgrg27mzec/webos.openvpn.ovpn_25.2.2_all.ipk?rlkey=5vqc58fz0pt4sg0tnzelb4vw2&st=v67m394p&dl=1",
+            "ipkHash": {
+               "sha256": "c91c811c00a68467e4a1398d1715c3905b8d66aecc670712833ee3b04ef6fc31"
+            },
+            "ipkSize": 2658368
+         },
+         "pool": "main",
+         "shortDescription": "OpenVPN - OVPN",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn-full_description.html.txt"
+      },
+
 
  {
          "id": "vpn.manager",
