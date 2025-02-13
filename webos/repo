@@ -169,7 +169,7 @@
             "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
             "sourceUrl": "https://t.me/ipk_moding_chat",
             "rootRequired": false,
-            "ipkUrl": "https://www.dropbox.com/scl/fi/rhscrbny1rupgrg27mzec/webos.openvpn.ovpn_25.2.2_all.ipk?rlkey=5vqc58fz0pt4sg0tnzelb4vw2&st=v67m394p&dl=1",
+            "ipkUrl": "webos.openvpn.ovpn_25.2.2_all.ipk",
             "ipkHash": {
                "sha256": "c91c811c00a68467e4a1398d1715c3905b8d66aecc670712833ee3b04ef6fc31"
             },
