@@ -169,7 +169,7 @@
             "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
             "sourceUrl": "https://t.me/ipk_moding_chat",
             "rootRequired": false,
-            "ipkUrl": "webos.openvpn.ovpn_25.2.2_all.ipk",
+            "ipkUrl": "https://algaufa.github.io/webos/openvpn/webos.openvpn.ovpn_25.2.2_all.ipk",
             "ipkHash": {
                "sha256": "c91c811c00a68467e4a1398d1715c3905b8d66aecc670712833ee3b04ef6fc31"
             },
@@ -246,7 +246,7 @@
             "iconUri": "https://github.com/wals09/repo/blob/main/reboot/icon.png?raw=true",
             "sourceUrl": "",
             "rootRequired": false,
-            "ipkUrl": "https://www.dropbox.com/scl/fi/rxpwk6a95bfmat89jmiu4/reboot_1.0.0_all.ipk?rlkey=9gm8twkkbwrtlaz8lyuyh4wse&st=glgxronm&dl=1",
+            "ipkUrl": "https://algaufa.github.io/webos/reboot/reboot_1.0.0_all.ipk",
             "ipkHash": {
                "sha256": "e573f18d7ecfc0fac63e58278fc3ecf1a6e83ae1a7d53177ee4ad326df49876c"
             },
