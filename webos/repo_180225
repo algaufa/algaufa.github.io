@@ -1,0 +1,294 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+
+{
+      "id": "bylampa.tv",
+      "title": "bylampa",
+      "iconUri": "https://algaufa.github.io/webos/bylampa/icon_large.png?raw=true",
+      "manifest": {
+        "id": "bylampa.tv",
+        "version": "1.4.2",
+        "type": "web",
+        "title": "bylampa",
+        "appDescription": "",
+        "iconUri": "https://algaufa.github.io/webos/bylampa/icon_large.png?raw=true",
+        "sourceUrl": "t.me/lampa_plugins_uncensored",
+        "rootRequired": false,
+        "ipkUrl": "https://algaufa.github.io/webos/bylampa/bylampa.tv_1.4.2_all.ipk",
+        "ipkHash": {
+          "sha256": "8a1d11d5883450d9131e069e3e4af01d1de42e7a1a040f69c5294aefdc6abce3"
+        },
+        "ipkSize": 7121159
+      },
+      "pool": "main",
+      "shortDescription": "",
+      "fullDescriptionUrl": "https://algaufa.github.io/webos/bylampa/index.html"
+    },
+
+
+{
+      "id": "lampa.land",
+      "title": "LampaLand",
+      "iconUri": "https://algaufa.github.io/webos/lampaland/largeIcon.png?raw=true",
+      "manifest": {
+        "id": "lampa.land",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "LampaLand",
+        "appDescription": "",
+        "iconUri": "https://algaufa.github.io/webos/lampaland/largeIcon.png?raw=true",
+        "sourceUrl": "https://get.lampa.land/",
+        "rootRequired": false,
+        "ipkUrl": "https://algaufa.github.io/webos/lampaland/lampa.land_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "1d8db06ee6c42fefc867ba300924079f6056bc21fb80be8edf1de278ab822f7d"
+        },
+        "ipkSize": 554548
+      },
+      "pool": "main",
+      "shortDescription": "",
+      "fullDescriptionUrl": ""
+    },
+
+    {
+      "id": "com.lampa.tv",
+      "title": "Lampa",
+      "iconUri": "https://algaufa.github.io/webos/lampa/icon_large.png?raw=true",
+      "manifest": {
+        "id": "com.lampa.tv",
+        "version": "1.4.1",
+        "type": "web",
+        "title": "Lampa",
+        "appDescription": "",
+        "iconUri": "https://algaufa.github.io/webos/lampa/icon_large.png?raw=true",
+        "sourceUrl": "",
+        "rootRequired": false,
+        "ipkUrl": "https://algaufa.github.io/webos/lampa/lampa_v1.4.1.ipk",
+        "ipkHash": {
+          "sha256": "f897172241f0fa3b7a909623154490cf8d2efebb1b538ec72be6b6bacaedb929"
+        },
+        "ipkSize": 7021158
+      },
+      "pool": "main",
+      "shortDescription": "",
+      "fullDescriptionUrl": ""
+    },
+
+
+
+
+
+    {
+      "id": "torrserv.matrix.app",
+      "title": "Torrserver MatriX",
+      "iconUri": "https://algaufa.github.io/webos/torrserver/largeIcon.png?raw=true",
+      "manifest": {
+        "id": "torrserv.matrix.app",
+        "version": "0.3.6",
+        "type": "web",
+        "title": "Torrserver MatriX",
+        "appDescription": "",
+        "iconUri": "https://algaufa.github.io/webos/torrserver/largeIcon.png?raw=true",
+        "sourceUrl": "",
+        "rootRequired": false,
+        "ipkUrl": "https://algaufa.github.io/webos/torrserver/torrserv.matrix.app_0.3.6_all.ipk",
+        "ipkHash": {
+          "sha256": "013e98c0f0d39f2351961f1a292db0f043ff61354e39e89813dfc4ca19a74fb0"
+        },
+        "ipkSize": 14572046 
+      },
+ 
+      "shortDescription": "",
+      "fullDescriptionUrl": ""
+    },
+
+
+{
+         "id": "com.forkplayer.tv",
+         "title": "ForkNewBeta",
+         "iconUri": "https://algaufa.github.io/webos/forkplayer/logo_fork_80.png?raw=true",
+         "manifest": {
+            "id": "com.forkplayer.tv",
+            "version": "1.0.3",
+            "type": "web",
+            "title": "ForkNewBeta",
+            "appDescription": "Приложение ForkNewBeta",
+            "iconUri": "https://algaufa.github.io/webos/forkplayer/logo_fork_80.png?raw=true",
+            "sourceUrl": "",
+            "rootRequired": false,
+            "ipkUrl": "https://algaufa.github.io/webos/forkplayer/WForkNewBeta.ipk",
+            "ipkHash": {
+               "sha256": "8336d5d7ad074215152f633023d4d6560aa30661cc3dcdb8b27575eb986702d2"
+            },
+            "ipkSize": 3297498
+         },
+         "pool": "main",
+         "shortDescription": "Приложение ForkNewBeta",
+         "fullDescriptionUrl": ""
+      },
+
+
+{
+         "id": "org.webosbrew.hbchannel",
+         "title": "Homebrew Channel",
+         "iconUri": "https://algaufa.github.io/webos/homebrew/icon160.png?raw=true",
+         "manifest": {
+            "id": "org.webosbrew.hbchannel",
+            "version": "0.7.2",
+            "type": "web",
+            "title": "Homebrew Channel",
+            "appDescription": "",
+            "iconUri": "https://algaufa.github.io/webos/homebrew/icon160.png?raw=true",
+            "sourceUrl": "",
+            "rootRequired": false,
+            "ipkUrl": "https://algaufa.github.io/webos/homebrew/org.webosbrew.hbchannel_0.7.2_all.ipk",
+            "ipkHash": {
+               "sha256": "d758d4d2023eb6039422139e763d1b163c130922ef197baedf451d4b3c45c549"
+            },
+            "ipkSize": 1659154
+         },
+         "pool": "main",
+         "shortDescription": "",
+         "fullDescriptionUrl": ""
+      },
+
+
+    {
+         "id": "webos.openvpn.ovpn",
+         "title": "OpenVPN - OVPN",
+         "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
+         "manifestUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn_manifest.json",
+         "manifest": {
+            "id": "webos.openvpn.ovpn",
+            "version": "25.2.2",
+            "type": "native",
+            "title": "OpenVPN - OVPN",
+            "appDescription": "Приложение OpenVPN - OVPN",
+            "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
+            "sourceUrl": "https://t.me/ipk_moding_chat",
+            "rootRequired": false,
+            "ipkUrl": "https://algaufa.github.io/webos/openvpn/webos.openvpn.ovpn_25.2.2_all.ipk",
+            "ipkHash": {
+               "sha256": "c91c811c00a68467e4a1398d1715c3905b8d66aecc670712833ee3b04ef6fc31"
+            },
+            "ipkSize": 2658368
+         },
+         "pool": "main",
+         "shortDescription": "OpenVPN - OVPN",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn-full_description.html.txt"
+      },
+
+
+
+{
+      "id": "free.protonvpn",
+      "title": "Free ProtonVPN",
+      "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
+      "manifest": {
+        "id": "free.protonvpn",
+        "version": "24.12.15",
+        "type": "web",
+        "title": "Free ProtonVPN",
+        "appDescription": "",
+        "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
+        "sourceUrl": "https://t.me/chat_ipk_m/3150",
+        "rootRequired": false,
+        "ipkUrl": "https://algaufa.github.io/webos/proton/free.protonvpn_24.12.15_all.ipk",
+        "ipkHash": {
+          "sha256": "197537d418eb96d0b56de3bf1c4b9c98a9f0682c0862031a1b2180a96f05eff3"
+        },
+        "ipkSize": 2586304
+      },
+      "pool": "main",
+      "shortDescription": "",
+      "fullDescriptionUrl": "https://algaufa.github.io/webos/bylampa/index.html"
+    },
+
+
+
+ {
+         "id": "vpn.manager",
+         "title": "OpenVPN Manager",
+         "iconUri": "https://algaufa.github.io/webos/openvpn/icon.png?raw=true",
+            "manifest": {
+            "id": "vpn.manager",
+            "version": "24.12.4",
+            "type": "native",
+            "title": "OpenVPN Manager",
+            "appDescription": "Приложение OpenVPN - OVPN",
+            "iconUri": "https://algaufa.github.io/webos/openvpn/icon.png?raw=true",
+            "sourceUrl": "https://t.me/chat_ipk_m/3150",
+            "rootRequired": true,
+            "ipkUrl": "https://algaufa.github.io/webos/openvpn/vpn.manager_24.12.4_all.ipk",
+            "ipkHash": {
+               "sha256": "5f8c8b07c2be9d066ab4372674f734fbc7a6109f42d4f678b3e3bf26ad842b8b"
+            },
+            "ipkSize": 143224 
+         },
+         "pool": "main",
+         "shortDescription": "WebOs OpenVPN Manager ",
+         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/refs/heads/main/vpn.manager/vpnmanager-full_description.html"
+      },
+
+
+
+    {
+      "id": "youtube.leanback.v4",
+      "title": "YouTube AdFree",
+      "iconUri": "https://algaufa.github.io/webos/youtube/largeIcon.png?raw=true",
+      "manifest": {
+        "id": "youtube.leanback.v4",
+        "version": "0.3.6",
+        "type": "web",
+        "title": "YouTube AdFree",
+        "appDescription": "",
+        "iconUri": "https://algaufa.github.io/webos/youtube/largeIcon.png?raw=true",
+        "sourceUrl": "",
+        "rootRequired": false,
+        "ipkUrl": "https://algaufa.github.io/webos/youtube/youtube.leanback.v4_0.3.6_all.ipk",
+        "ipkHash": {
+          "sha256": "6130e9456e808c1d968956e03bf93b6d0202d977c5a4ad35473ed2fe159f94d4"
+        },
+        "ipkSize": 363816
+      },
+ 
+      "shortDescription": "",
+      "fullDescriptionUrl": ""
+
+    },
+
+
+    {
+         "id": "reboot",
+         "title": "System Reboot",
+         "iconUri": "https://github.com/wals09/repo/blob/main/reboot/icon.png?raw=true",
+         "manifest": {
+            "id": "reboot",
+            "version": "1.0.0",
+            "type": "native",
+            "title": "System Reboot",
+            "appDescription": "Кнопка Reboot",
+            "iconUri": "https://github.com/wals09/repo/blob/main/reboot/icon.png?raw=true",
+            "sourceUrl": "",
+            "rootRequired": false,
+            "ipkUrl": "https://algaufa.github.io/webos/reboot/reboot_1.0.0_all.ipk",
+            "ipkHash": {
+               "sha256": "e573f18d7ecfc0fac63e58278fc3ecf1a6e83ae1a7d53177ee4ad326df49876c"
+            },
+            "ipkSize": 258048
+         },
+         "pool": "main",
+         "shortDescription": "Кнопка Reboot",
+         "fullDescriptionUrl": "https://raw.githubusercontent.com/wals09/repo/main/reboot/reboot-full_description.html"
+      }
+
+
+
+   ]
+}
