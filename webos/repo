@@ -250,7 +250,7 @@
         "title": "Free Proto VPN",
         "appDescription": "",
         "iconUri": "https://algaufa.github.io/webos/proto/icon.png?raw=true",
-        "sourceUrl": "https://t.me/chat_ipk_m/3150",
+        "sourceUrl": "",
         "rootRequired": false,
         "ipkUrl": "https://algaufa.github.io/webos/proto/free.proto.vpn_24.12.15_all.ipk",
         "ipkHash": {
