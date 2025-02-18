@@ -296,14 +296,14 @@
     {
          "id": "reboot",
          "title": "System Reboot",
-         "iconUri": "https://github.com/wals09/repo/blob/main/reboot/icon.png?raw=true",
+         "iconUri": "https://algaufa.github.io/webos/reboot/icon.png?raw=true",
          "manifest": {
             "id": "reboot",
             "version": "1.0.0",
             "type": "native",
             "title": "System Reboot",
             "appDescription": "Кнопка Reboot",
-            "iconUri": "https://github.com/wals09/repo/blob/main/reboot/icon.png?raw=true",
+            "iconUri": "https://algaufa.github.io/webos/reboot/icon.png?raw=true",
             "sourceUrl": "",
             "rootRequired": false,
             "ipkUrl": "https://algaufa.github.io/webos/reboot/reboot_1.0.0_all.ipk",
