@@ -238,6 +238,35 @@
 
 
 
+
+{
+      "id": "free.proto.vpn",
+      "title": "Free Proto VPN",
+      "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
+      "manifest": {
+        "id": "free.proto.vpn",
+        "version": "24.12.15",
+        "type": "web",
+        "title": "Free Proto VPN",
+        "appDescription": "",
+        "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
+        "sourceUrl": "https://t.me/chat_ipk_m/3150",
+        "rootRequired": false,
+        "ipkUrl": "https://algaufa.github.io/webos/proton/free.protonvpn_24.12.15_all.ipk",
+        "ipkHash": {
+          "sha256": "197537d418eb96d0b56de3bf1c4b9c98a9f0682c0862031a1b2180a96f05eff3"
+        },
+        "ipkSize": 2586304
+      },
+      "pool": "main",
+      "shortDescription": "",
+      "fullDescriptionUrl": "https://algaufa.github.io/webos/bylampa/index.html"
+    },
+
+
+
+
+
     {
       "id": "youtube.leanback.v4",
       "title": "YouTube AdFree",
