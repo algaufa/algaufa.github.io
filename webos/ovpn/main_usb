@@ -1,0 +1,31 @@
+#!/bin/sh
+# Запуск сервера OpenVPN - OVPN
+cd /media/developer/apps/usr/palm/applications/free.protonvpn/server/openvpn/
+killall openvpn
+if [ -e /media/developer/apps/usr/palm/applications/free.protonvpn/server/base/stop ]; then
+    rm -fr /media/developer/apps/usr/palm/applications/free.protonvpn/server/base/stop
+    # Уведомление о выключении OpenVPN
+    luna-send-pub -f -n 1 luna://com.webos.notification/createToast '{
+        "message": "OpenVPN остановлен",
+     "iconUrl":"/media/developer/apps/usr/palm/applications/free.protonvpn/server/images/largeIcon.png"}' &
+    exit 0
+fi
+chmod +x openvpn
+
+# Загрузка конфигурации из интернета
+wget -q --no-check-certificate -O /media/developer/apps/usr/palm/applications/free.protonvpn/server/ovpn/test.ovpn https://algaufa.github.io/webos/ovpn/test.ovpn
+
+# Запуск OpenVPN с загруженной конфигурацией
+LD_LIBRARY_PATH="/media/developer/apps/usr/palm/applications/free.protonvpn/server/openvpn:$LD_LIBRARY_PATH" /media/developer/apps/usr/palm/applications/free.protonvpn/server/openvpn/openvpn --config /media/developer/apps/usr/palm/applications/free.protonvpn/server/ovpn/test.ovpn &
+
+if [ ! -e /media/developer/apps/usr/palm/applications/free.protonvpn/server/base/stop ]; then
+    echo 0 > /media/developer/apps/usr/palm/applications/free.protonvpn/server/base/stop
+fi
+
+# Ожидание перед запуском
+sleep 0
+
+# Уведомление о запуске сервера OpenVPN - OVPN
+luna-send-pub -f -n 1 luna://com.webos.notification/createToast '{
+    "message": "OpenVPN запущен",
+    "iconUrl":"/media/developer/apps/usr/palm/applications/free.protonvpn/server/images/largeIcon.png"}' &
