@@ -240,23 +240,23 @@
 
 
 {
-      "id": "free.proto.vpn",
-      "title": "Free Proto VPN",
-      "iconUri": "https://algaufa.github.io/webos/proto/icon.png?raw=true",
+      "id": "web.protonvpn",
+      "title": "WEB ProtonVPN",
+      "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
       "manifest": {
-        "id": "free.proto.vpn",
-        "version": "24.12.15",
+        "id": "web.protomvpn",
+        "version": "1.0",
         "type": "web",
-        "title": "Free Proto VPN",
+        "title": "WEB ProtonVPN",
         "appDescription": "",
-        "iconUri": "https://algaufa.github.io/webos/proto/icon.png?raw=true",
+        "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
         "sourceUrl": "",
         "rootRequired": false,
-        "ipkUrl": "https://algaufa.github.io/webos/proto/free.proto.vpn_24.12.15_all.ipk",
+        "ipkUrl": "https://algaufa.github.io/webos/proto/web.protonvpn_1.0.ipk",
         "ipkHash": {
-          "sha256": "9a669ce9606649abc4f8c024435c8b379b97507e011c227e97f5001b079b5584"
+          "sha256": "599dd61e249baecab4a79644a0b907043d3552f6ca2888ea6ae6286d5ce8e749"
         },
-        "ipkSize": 2590214
+        "ipkSize": 2590720
       },
       "pool": "main",
       "shortDescription": "",
