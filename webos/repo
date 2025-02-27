@@ -247,16 +247,16 @@
         "id": "web.protomvpn",
         "version": "1.0",
         "type": "web",
-        "title": "WEB ProtonVPN",
+        "title": "ProtonVPN",
         "appDescription": "",
-        "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
+        "iconUri": "https://algaufa.github.io/webos/web.protonvpn/icon.png?raw=true",
         "sourceUrl": "",
         "rootRequired": false,
-        "ipkUrl": "https://algaufa.github.io/webos/proton/web.protonvpn_1.0.ipk",
+        "ipkUrl": "https://algaufa.github.io/webos/web.protonvpn/web.protonvpn_1.0_all.ipk",
         "ipkHash": {
-          "sha256": "2c4d8920ed679bcaaec58c20a8992e43cf57cc40c046cc7699ba48a1216353d2"
+          "sha256": "ee20cf4c9de26384a65d041326a34455a01d01877136ecda42567f211b440945"
         },
-        "ipkSize": 2580808
+        "ipkSize": 2580792
       },
       "pool": "main",
       "shortDescription": "",
