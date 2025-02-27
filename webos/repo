@@ -254,9 +254,9 @@
         "rootRequired": false,
         "ipkUrl": "https://algaufa.github.io/webos/proton/web.protonvpn_1.0.ipk",
         "ipkHash": {
-          "sha256": "599dd61e249baecab4a79644a0b907043d3552f6ca2888ea6ae6286d5ce8e749"
+          "sha256": "2c4d8920ed679bcaaec58c20a8992e43cf57cc40c046cc7699ba48a1216353d2"
         },
-        "ipkSize": 2590720
+        "ipkSize": 2580808
       },
       "pool": "main",
       "shortDescription": "",
