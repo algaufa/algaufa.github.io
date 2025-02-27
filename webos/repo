@@ -252,7 +252,7 @@
         "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
         "sourceUrl": "",
         "rootRequired": false,
-        "ipkUrl": "https://algaufa.github.io/webos/proto/web.protonvpn_1.0.ipk",
+        "ipkUrl": "https://algaufa.github.io/webos/proton/web.protonvpn_1.0.ipk",
         "ipkHash": {
           "sha256": "599dd61e249baecab4a79644a0b907043d3552f6ca2888ea6ae6286d5ce8e749"
         },
