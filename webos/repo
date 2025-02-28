@@ -81,9 +81,6 @@
     },
 
 
-
-
-
     {
       "id": "torrserv.matrix.app",
       "title": "Torrserver MatriX",
@@ -145,7 +142,7 @@
             "title": "Homebrew Channel",
             "appDescription": "",
             "iconUri": "https://algaufa.github.io/webos/homebrew/icon160.png?raw=true",
-            "sourceUrl": "",
+            "sourceUrl": "https://github.com/webosbrew/webos-homebrew-channel",
             "rootRequired": false,
             "ipkUrl": "https://algaufa.github.io/webos/homebrew/org.webosbrew.hbchannel_0.7.2_all.ipk",
             "ipkHash": {
@@ -158,87 +155,6 @@
          "fullDescriptionUrl": ""
       },
 
-
-    {
-         "id": "webos.openvpn.ovpn",
-         "title": "OpenVPN - OVPN",
-         "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
-         "manifestUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn_manifest.json",
-         "manifest": {
-            "id": "webos.openvpn.ovpn",
-            "version": "25.2.2",
-            "type": "native",
-            "title": "OpenVPN - OVPN",
-            "appDescription": "Приложение OpenVPN - OVPN",
-            "iconUri": "https://github.com/wals09/repo/blob/main/ovpn/icon.png?raw=true",
-            "sourceUrl": "https://t.me/ipk_moding_chat",
-            "rootRequired": false,
-            "ipkUrl": "https://algaufa.github.io/webos/openvpn/webos.openvpn.ovpn_25.2.2_all.ipk",
-            "ipkHash": {
-               "sha256": "c91c811c00a68467e4a1398d1715c3905b8d66aecc670712833ee3b04ef6fc31"
-            },
-            "ipkSize": 2658368
-         },
-         "pool": "main",
-         "shortDescription": "OpenVPN - OVPN",
-         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/main/ovpn/ovpn-full_description.html.txt"
-      },
-
-
-
-{
-      "id": "free.protonvpn",
-      "title": "Free ProtonVPN",
-      "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
-      "manifest": {
-        "id": "free.protonvpn",
-        "version": "24.12.15",
-        "type": "web",
-        "title": "Free ProtonVPN",
-        "appDescription": "",
-        "iconUri": "https://algaufa.github.io/webos/proton/icon.png?raw=true",
-        "sourceUrl": "https://t.me/chat_ipk_m/3150",
-        "rootRequired": false,
-        "ipkUrl": "https://algaufa.github.io/webos/proton/free.protonvpn_24.12.15_all.ipk",
-        "ipkHash": {
-          "sha256": "197537d418eb96d0b56de3bf1c4b9c98a9f0682c0862031a1b2180a96f05eff3"
-        },
-        "ipkSize": 2586304
-      },
-      "pool": "main",
-      "shortDescription": "",
-      "fullDescriptionUrl": "https://algaufa.github.io/webos/bylampa/index.html"
-    },
-
-
-
- {
-         "id": "vpn.manager",
-         "title": "OpenVPN Manager",
-         "iconUri": "https://algaufa.github.io/webos/openvpn/icon.png?raw=true",
-            "manifest": {
-            "id": "vpn.manager",
-            "version": "24.12.4",
-            "type": "native",
-            "title": "OpenVPN Manager",
-            "appDescription": "Приложение OpenVPN - OVPN",
-            "iconUri": "https://algaufa.github.io/webos/openvpn/icon.png?raw=true",
-            "sourceUrl": "https://t.me/chat_ipk_m/3150",
-            "rootRequired": true,
-            "ipkUrl": "https://algaufa.github.io/webos/openvpn/vpn.manager_24.12.4_all.ipk",
-            "ipkHash": {
-               "sha256": "5f8c8b07c2be9d066ab4372674f734fbc7a6109f42d4f678b3e3bf26ad842b8b"
-            },
-            "ipkSize": 143224 
-         },
-         "pool": "main",
-         "shortDescription": "WebOs OpenVPN Manager ",
-         "fullDescriptionUrl": "https://github.com/wals09/repo/raw/refs/heads/main/vpn.manager/vpnmanager-full_description.html"
-      },
-
-
-
-
 {
       "id": "web.protonvpn",
       "title": "WEB ProtonVPN",
@@ -250,7 +166,7 @@
         "title": "WEB ProtonVPN",
         "appDescription": "",
         "iconUri": "https://algaufa.github.io/webos/web.protonvpn/icon.png?raw=true",
-        "sourceUrl": "https://github.com/webosbrew/youtube-webos",
+        "sourceUrl": "",
         "rootRequired": false,
         "ipkUrl": "https://algaufa.github.io/webos/web.protonvpn/web.protonvpn_1.0.1_all.ipk",
         "ipkHash": {
@@ -264,9 +180,6 @@
     },
 
 
-
-
-
     {
       "id": "youtube.leanback.v4",
       "title": "YouTube AdFree",
@@ -278,7 +191,7 @@
         "title": "YouTube AdFree",
         "appDescription": "",
         "iconUri": "https://algaufa.github.io/webos/youtube/largeIcon.png?raw=true",
-        "sourceUrl": "",
+        "sourceUrl": "https://github.com/webosbrew/youtube-webos",
         "rootRequired": false,
         "ipkUrl": "https://algaufa.github.io/webos/youtube/youtube.leanback.v4_0.3.6_all.ipk",
         "ipkHash": {
