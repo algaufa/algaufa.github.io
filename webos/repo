@@ -56,30 +56,6 @@
       "fullDescriptionUrl": ""
     },
 
-    {
-      "id": "com.lampa.tv",
-      "title": "Lampa",
-      "iconUri": "https://algaufa.github.io/webos/lampa/icon_large.png?raw=true",
-      "manifest": {
-        "id": "com.lampa.tv",
-        "version": "1.4.1",
-        "type": "web",
-        "title": "Lampa",
-        "appDescription": "",
-        "iconUri": "https://algaufa.github.io/webos/lampa/icon_large.png?raw=true",
-        "sourceUrl": "",
-        "rootRequired": false,
-        "ipkUrl": "https://algaufa.github.io/webos/lampa/lampa_v1.4.1.ipk",
-        "ipkHash": {
-          "sha256": "f897172241f0fa3b7a909623154490cf8d2efebb1b538ec72be6b6bacaedb929"
-        },
-        "ipkSize": 7021158
-      },
-      "pool": "main",
-      "shortDescription": "",
-      "fullDescriptionUrl": ""
-    },
-
 
     {
       "id": "torrserv.matrix.app",
@@ -127,31 +103,6 @@
          },
          "pool": "main",
          "shortDescription": "Приложение ForkNewBeta",
-         "fullDescriptionUrl": ""
-      },
-
-
-{
-         "id": "org.webosbrew.hbchannel",
-         "title": "Homebrew Channel",
-         "iconUri": "https://algaufa.github.io/webos/homebrew/icon160.png?raw=true",
-         "manifest": {
-            "id": "org.webosbrew.hbchannel",
-            "version": "0.7.2",
-            "type": "web",
-            "title": "Homebrew Channel",
-            "appDescription": "",
-            "iconUri": "https://algaufa.github.io/webos/homebrew/icon160.png?raw=true",
-            "sourceUrl": "https://github.com/webosbrew/webos-homebrew-channel",
-            "rootRequired": false,
-            "ipkUrl": "https://algaufa.github.io/webos/homebrew/org.webosbrew.hbchannel_0.7.2_all.ipk",
-            "ipkHash": {
-               "sha256": "d758d4d2023eb6039422139e763d1b163c130922ef197baedf451d4b3c45c549"
-            },
-            "ipkSize": 1659154
-         },
-         "pool": "main",
-         "shortDescription": "",
          "fullDescriptionUrl": ""
       },
 
