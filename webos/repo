@@ -250,7 +250,7 @@
         "title": "WEB ProtonVPN",
         "appDescription": "",
         "iconUri": "https://algaufa.github.io/webos/web.protonvpn/icon.png?raw=true",
-        "sourceUrl": "",
+        "sourceUrl": "https://github.com/webosbrew/youtube-webos",
         "rootRequired": false,
         "ipkUrl": "https://algaufa.github.io/webos/web.protonvpn/web.protonvpn_1.0.1_all.ipk",
         "ipkHash": {
