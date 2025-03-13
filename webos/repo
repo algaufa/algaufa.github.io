@@ -131,6 +131,34 @@
     },
 
 
+{
+      "id": "amnezia.wg",
+      "title": "Amnezia WG",
+      "iconUri": "https://algaufa.github.io/webos/amnezia.wg/icon.png?raw=true",
+      "manifest": {
+        "id": "amnezia.wg",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "Amnezia WG",
+        "appDescription": "",
+        "iconUri": "https://algaufa.github.io/webos/amnezia.wg/icon.png?raw=true",
+        "sourceUrl": "",
+        "rootRequired": false,
+        "ipkUrl": "https://algaufa.github.io/webos/amnezia.wg/amnezia.wg_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "7fea1137ecaec6ad8e69a2550bfbe571c44d729d4a21241c2605178cfab4e9ca"
+        },
+        "ipkSize": 7908522
+      },
+      "pool": "main",
+      "shortDescription": "",
+      "fullDescriptionUrl": ""
+    },
+
+
+
+
+
     {
       "id": "youtube.leanback.v4",
       "title": "YouTube AdFree",
