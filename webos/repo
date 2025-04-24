@@ -165,18 +165,18 @@
       "iconUri": "https://algaufa.github.io/webos/youtube/largeIcon.png?raw=true",
       "manifest": {
         "id": "youtube.leanback.v4",
-        "version": "0.3.6",
+        "version": "0.3.7",
         "type": "web",
         "title": "YouTube AdFree",
         "appDescription": "",
         "iconUri": "https://algaufa.github.io/webos/youtube/largeIcon.png?raw=true",
         "sourceUrl": "https://github.com/webosbrew/youtube-webos",
         "rootRequired": false,
-        "ipkUrl": "https://algaufa.github.io/webos/youtube/youtube.leanback.v4_0.3.6_all.ipk",
+        "ipkUrl": "https://algaufa.github.io/webos/youtube/youtube.leanback.v4_0.3.7_all.ipk",
         "ipkHash": {
-          "sha256": "6130e9456e808c1d968956e03bf93b6d0202d977c5a4ad35473ed2fe159f94d4"
+          "sha256": "7bd8d93ce0f9dc2230ca64bae4a0e027c3a61347fb79c040556005cd3611f828"
         },
-        "ipkSize": 363816
+        "ipkSize": 363976
       },
  
       "shortDescription": "",
