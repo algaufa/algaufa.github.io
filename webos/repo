@@ -63,22 +63,22 @@
       "iconUri": "https://algaufa.github.io/webos/torrserver/largeIcon.png?raw=true",
       "manifest": {
         "id": "torrserv.matrix.app",
-        "version": "0.3.6",
+        "version": "0.3.8",
         "type": "web",
         "title": "Torrserver MatriX",
         "appDescription": "",
         "iconUri": "https://algaufa.github.io/webos/torrserver/largeIcon.png?raw=true",
         "sourceUrl": "",
         "rootRequired": false,
-        "ipkUrl": "https://algaufa.github.io/webos/torrserver/torrserv.matrix.app_0.3.6_all.ipk",
+        "ipkUrl": "https://algaufa.github.io/webos/torrserver/torrserv.matrix.app_0.3.8_all.ipk",
         "ipkHash": {
-          "sha256": "013e98c0f0d39f2351961f1a292db0f043ff61354e39e89813dfc4ca19a74fb0"
+          "sha256": "018587e73155ed0c6fa772070d232c58a5399176157e586b5db48497057dd684"
         },
-        "ipkSize": 14572046 
+        "ipkSize": 17928264 
       },
  
       "shortDescription": "",
-      "fullDescriptionUrl": ""
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/torrserv.matrix.app/index.html"
     },
 
 
