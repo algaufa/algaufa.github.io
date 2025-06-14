@@ -32,6 +32,35 @@
     },
 
 
+
+
+
+ {  
+      "id": "mybylampa.tv",
+      "title": "lampa+",
+      "iconUri": "https://epsill.github.io/repo/sd.png?raw=true",
+      "manifest": {
+        "id": "mybylampa.tv",
+        "version": "2.3.0",
+        "type": "web",
+        "title": "lampa+",
+        "appDescription": "",
+        "iconUri": "https://epsill.github.io/repo/sd.png?raw=true",
+        "sourceUrl": "t.me/lampa_plugins_uncensored",
+        "rootRequired": false,
+        "ipkUrl": "https://www.dropbox.com/scl/fi/w9vxd81b7uitq741x6b2j/mybylampa.tv_2.3.0.ipk?rlkey=jl1i076ma1qpnrngxrz9rqyqz&st=wcm6ou92&dl=1",
+        "ipkHash": {
+          "sha256": "0f6014790e6cb610cb1e53314b4f608483bcf8472589314ce86914c9126bb20c"
+        },
+        "ipkSize": 6598656 
+      },
+      "pool": "main",
+      "shortDescription": "",
+      "fullDescriptionUrl": "https://epsill.github.io/repo/index.html"
+    }
+
+
+
 {
       "id": "lampa.land",
       "title": "LampaLand",
